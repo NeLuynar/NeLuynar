@@ -1,3 +1,3 @@
 ## luynar
 - Languages :
-  - C#, C++, Rust, Python, Java
+  - C#, C++, Rust, Python, Java, JavaScript
