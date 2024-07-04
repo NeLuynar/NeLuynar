@@ -1,3 +1,3 @@
 ## 🔗 About me
 - Languages :
-  - C#, C++, Rust, Python, Java, JavaScript
+  - C#, C++, Rust, Python, Java.
