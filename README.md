@@ -2,4 +2,7 @@
 - Languages :
   - C#, C++, Rust, Python.
  
-- software engineering = <3
+- Directions :
+  - Software engineering
+  - Databases
+ 
